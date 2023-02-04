@@ -14,6 +14,7 @@
  * limitations under the License.
  * =============================================================================
  */
+import ImageData from '@canvas/image-data';
 
 import {cpuBlur} from './blur';
 import {Color, PartSegmentation, PersonSegmentation} from './types';
